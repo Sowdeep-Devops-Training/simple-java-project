@@ -4,3 +4,5 @@ This is a demo project that you can use with [SowDeep  Continuous Deployment](ht
 Sample Commit 1
 
 Sample Commit 2
+
+hi this is the merged commit
