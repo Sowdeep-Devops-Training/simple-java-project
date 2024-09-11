@@ -1,4 +1,6 @@
 # Simple Java Project
-hi this is the merged commit
 
-Removed second line and added this through merge-me2
+This is a demo project that you can use with [SowDeep  Continuous Deployment](https://buddy.works).
+
+this is me 
+
